@@ -3,6 +3,10 @@
 *.tgz
 *.zip
 
+*-namcap.log
+*-build.log
+*-package.log
+
 # signed sources
 *.asc
 *.sig
