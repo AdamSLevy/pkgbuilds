@@ -1,3 +1,5 @@
+Tools and subtree folder structure forked from [https://github.com/eli-schwartz/pkgbuilds](https://github.com/eli-schwartz/pkgbuilds).
+
 # PKGBUILDs for [Arch User Repository](https://aur.archlinux.org)
 Includes control scripts for managing AUR packages.
 
