@@ -1,6 +1,6 @@
 pkgbase = chronograf
 	pkgdesc = Time-series data visualization tool for InfluxDB
-	pkgver = 1.7.5
+	pkgver = 1.7.10
 	pkgrel = 1
 	url = https://github.com/InfluxData/chronograf
 	install = chronograf.install
@@ -18,7 +18,7 @@ pkgbase = chronograf
 	makedepends = python2
 	makedepends = go-bindata
 	depends = glibc
-	source = git+https://github.com/influxdata/chronograf#tag=1.7.5
+	source = git+https://github.com/influxdata/chronograf#tag=1.7.10
 	source = chronograf.sysusers
 	source = chronograf.tmpfiles
 	sha256sums = SKIP
