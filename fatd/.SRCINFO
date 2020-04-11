@@ -1,6 +1,6 @@
 pkgbase = fatd
 	pkgdesc = Factom Asset Tokens Daemon
-	pkgver = 1.0.0
+	pkgver = 1.1.4
 	pkgrel = 1
 	url = https://github.com/Factom-Asset-Tokens/fatd
 	install = fatd.install
@@ -11,7 +11,7 @@ pkgbase = fatd
 	depends = glibc
 	optdepends = factomd
 	options = emptydirs
-	source = git+https://github.com/Factom-Asset-Tokens/fatd#tag=v1.0.0
+	source = git+https://github.com/Factom-Asset-Tokens/fatd#tag=v1.1.4
 	md5sums = SKIP
 
 pkgname = fatd

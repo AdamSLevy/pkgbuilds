@@ -1,6 +1,6 @@
 # Maintainer: Adam Levy <adam@canonical-ledgers.com>
 pkgname=fatd
-pkgver=1.0.0
+pkgver=1.1.4
 pkgrel=1
 pkgdesc="Factom Asset Tokens Daemon"
 url="https://github.com/Factom-Asset-Tokens/fatd"
